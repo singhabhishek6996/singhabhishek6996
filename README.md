@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Abhishek Singh.
 - 👀 I’m interested in Web Development and Competitive Programming.
+- ⭐️ These are my CP handles [Codeforces](https://codeforces.com/profile/singhabhishek6), [Codechef](https://www.codechef.com/users/noobmaster07) and [LeetCode](https://leetcode.com/singhabhishek6/).
 - 🌱 I’m currently learning Web Development and Data Structures.
 
 <!---
